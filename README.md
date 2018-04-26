@@ -7,4 +7,5 @@ For learning....
 > * Magma也有[一些publications](https://robocup.hs-offenburg.de/en/publications/)
 > * [UT Austin Villa 2011 3D Simulation Team Report](http://www.cs.utexas.edu/~pstone/Papers/bib2html-links/AI1110-macalpine.pdf)是一个很有用的资料，今天看来section 9，还没实现。明天把section 11看完，基本实现各种策略占位！
 
-
+## 2018-4-26
+> * section11 没看完，惭愧！
