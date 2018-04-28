@@ -19,3 +19,8 @@ For learning....
 > * 才发现，ut大神还有更新github，[那个Boost和std歧义](https://blog.csdn.net/fsdgsddaer/article/details/79948957)，他也解决了。
 > * 这份底层，还有很多东西不明白，__还要多看！__
 > * 今天是第四天了，今天需要实现诸多细节，明日开始写paper。
+
+## 2018-4-28 Saturday 23:57
+> * 各种模式占位，基本实现了，后期还有__很多逻辑要优化！__
+> * 当前工作不难，但是很耗时间。
+> * 明天尽量paper开个头。
