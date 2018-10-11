@@ -7,3 +7,8 @@
 * 据说jsp标签技术很流行
 * 最近学习了el表达式和 jsp taglib，发现工作中的EMP框架里的许多标签都是公司自己写的
 * 今天先学会自己写一个tld（taglib description）文件
+
+# 2018-10-11 Thursday 15:11
+* 版本rc：Release Candidate 候选版本
+* 版本ga：General Availability(一般可用) 大力推广版
+* [UML](https://en.wikipedia.org/wiki/Unified_Modeling_Language) (unified modeling language) 统一建模语言 [tutorial](https://www.tutorialspoint.com/uml/index.htm)
