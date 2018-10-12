@@ -14,3 +14,4 @@
 * [UML](https://en.wikipedia.org/wiki/Unified_Modeling_Language) (unified modeling language) 统一建模语言 [tutorial](https://www.tutorialspoint.com/uml/index.htm)
 # 2018-10-12 Friday 8:58
 * 往后博客结尾加详细时间，如posted on 2018-10-12 8:58
+* Strength Weak Opportunity Threat
