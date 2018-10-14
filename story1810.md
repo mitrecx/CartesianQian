@@ -15,3 +15,6 @@
 # 2018-10-12 Friday 8:58
 * 往后博客结尾加详细时间，如posted on 2018-10-12 8:58
 * Strength Weak Opportunity Threat
+
+# 2018-10-14 Sunday 23:22
+* 好读书，擅思辨---王岐山
