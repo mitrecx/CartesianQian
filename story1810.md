@@ -21,3 +21,5 @@
 
 # 2018-10-15 Monday 10:49
 * IoC <font color='#00B2EE'>is also known as</font> dependency injection (DI).
+* Annotation-based Container Configuration 
+* Java-based Container Configuration
