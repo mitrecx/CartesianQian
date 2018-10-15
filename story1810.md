@@ -20,4 +20,4 @@
 * 好读书，擅思辨---王岐山
 
 # 2018-10-15 Monday 10:49
-* <font color='#00B2EE'>IoC is also known as dependency injection (DI).</font>
+* IoC <font color='#00B2EE'>is also known as</font> dependency injection (DI).
