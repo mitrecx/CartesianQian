@@ -25,4 +25,5 @@
 * Java-based Container Configuration
 
 # 2018-10-16 Tuesday 15:34 
-You can then use getBean to retrieve instances of your beans. The ApplicationContext interface has a few other methods for retrieving beans, but, ideally, your application code should never use them. Indeed, your application code should have no calls to the getBean() method at all and thus have no dependency on Spring APIs at all. 
+You can then use getBean to retrieve instances of your beans. The ApplicationContext interface has a few other methods for retrieving beans, but, ideally, your application code should never use them. Indeed, your application code should have no calls to the getBean() method at all and thus have no dependency on Spring APIs at all.   
+实际上，应用程序代码应该完全不调用getBean()方法，因此完全不依赖于SpringAPI。
